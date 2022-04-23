@@ -30,7 +30,7 @@ print(value_list)
 print("value list")
 #replace values in place str to int
 for index in range(len(value_list)):
-    value_list[index]=int(value_list[index])
+#    value_list[index]=int(value_list[index])
 print(value_list)
 
 #another method to convert to int
